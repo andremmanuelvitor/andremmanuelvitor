@@ -1,7 +1,5 @@
 ## Fala comigo! Sou o André Emmanuel 👋
 
-
-
  <div>
   <a href="https://github.com/andremmanuelvitor">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=andremmanuelvitor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
