@@ -1,3 +1,4 @@
+<head>
 <div id="Titulo">
  <h1 align="center"><b>Fala comigo! Sou o André Emmanuel👋</b></h1>
 </div>
@@ -5,8 +6,10 @@
 <div id="gif">
  <img align="right" alt="Dedé-Poka" height="120" width="120" src="https://media.discordapp.net/attachments/787860898278277122/887015790266679306/ezgif.com-gif-maker.gif">
 </div>
+</head>
 
-## *Sobre mim*:
+<body>
+ <h3><b>Sobre mim:</b></h3>
  
  - 🎓 Estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá - UNIFEI
  - 👨‍💻 No momento estou aprendendo C++
@@ -37,3 +40,4 @@
   ![Snake animation](https://github.com/andremmanuelvitor/andremmanuelvitor/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</body>
