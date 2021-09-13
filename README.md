@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Dedé-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
   <img align="center" alt="Dedé-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
-  <img align="right" alt="Dedé-poka" height="180" width="180" src="https://media.discordapp.net/attachments/787860898278277122/887015790266679306/ezgif.com-gif-maker.gif">
+  <img align="right" alt="Dedé-poka" height="120" width="120" src="https://media.discordapp.net/attachments/787860898278277122/887015790266679306/ezgif.com-gif-maker.gif">
 </div>
  
    ##
