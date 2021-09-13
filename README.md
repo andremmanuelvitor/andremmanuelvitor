@@ -1,4 +1,4 @@
-### **Fala comigo! Sou o André Emmanuel** 👋
+# **Fala comigo! Sou o André Emmanuel** 👋
 
 <div>
  <img align="right" alt="Dedé-Poka" height="120" width="120" src="https://media.discordapp.net/attachments/787860898278277122/887015790266679306/ezgif.com-gif-maker.gif">
