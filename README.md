@@ -1,6 +1,8 @@
-# **Fala comigo! Sou o André Emmanuel** 👋
+<div id="Titulo">
+ <h1 align="center"><b>Fala comigo! Sou o André Emmanuel👋</b></h1>
+</div>
 
-<div>
+<div id="gif">
  <img align="right" alt="Dedé-Poka" height="120" width="120" src="https://media.discordapp.net/attachments/787860898278277122/887015790266679306/ezgif.com-gif-maker.gif">
 </div>
 
@@ -10,8 +12,7 @@
  - 👨‍💻 No momento estou aprendendo C++
 
  ## 🚀💻 *Tecnologias e Ferramentas*
-<div>
- <p align="center"><br>
+<div id="Tech" align="center">
   <img alt="Dedé-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Dedé-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Dedé-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,15 +20,14 @@
 </div>
 
   ## ⚡ *GitHub Stats*
- <div>
+ <div id="Stats" align="center">
   <a href="https://github.com/andremmanuelvitor">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=andremmanuelvitor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremmanuelvitor&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
  ## 📞 *Fale comigo*
-<div>
-  <p align="center"><br>
+<div id="Call-me" lign="center">
   <a href="https://www.facebook.com/andre.emmanuei" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andreocv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andremmanuelvitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
