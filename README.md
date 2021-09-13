@@ -27,7 +27,7 @@
 </div>
   
  ## 📞 *Fale comigo*
-<div id="Call-me" lign="center">
+<div id="Call-me" align="center">
   <a href="https://www.facebook.com/andre.emmanuei" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andreocv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andremmanuelvitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
