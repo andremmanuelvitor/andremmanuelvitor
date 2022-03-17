@@ -12,7 +12,7 @@
  <h3><b>Sobre mim:</b></h3>
  
  - 🎓 Estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá - UNIFEI
- - 👨‍💻 No momento estou aprendendo C++
+ - 👨‍💻 No momento estou aprendendo sobre Drones e Tratamento de Imagem
 
  ## 🚀💻 *Tecnologias e Ferramentas*
 <div id="Tech" align="center">
