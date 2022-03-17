@@ -32,11 +32,7 @@
   
  ## 📞 *Fale comigo*
 <div id="Call-me" align="center">
-  <a href="https://www.facebook.com/andre.emmanuei" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/andreocv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andremmanuelvitor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andre-emmanuei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://steamcommunity.com/id/Estratosferaman" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
    <a href="https://cursos.alura.com.br/user/andre-emmanuei" target="_blank"><img src="https://media.discordapp.net/attachments/755967717147672616/887044128913915934/alura-dev-icon.jpg" target="_blank"></a>
 
   ![Snake animation](https://github.com/andremmanuelvitor/andremmanuelvitor/blob/output/github-contribution-grid-snake.svg)
