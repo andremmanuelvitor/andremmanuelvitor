@@ -23,11 +23,11 @@
   ## ⚡ *GitHub Stats*
  <div id="Stats" align="center">
   <a href="https://github.com/andremmanuelvitor">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=andremmanuelvitor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremmanuelvitor&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andremmanuelvitor&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andremmanuelvitor&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
- ## 📞 *Fale comigo*
+ ## 📞 *Estou por aqui*
 <div id="Call-me" align="center">
   <a href="https://www.linkedin.com/in/andre-emmanuei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://cursos.alura.com.br/user/andre-emmanuei" target="_blank"><img src="https://media.discordapp.net/attachments/755967717147672616/887044128913915934/alura-dev-icon.jpg" target="_blank"></a>
