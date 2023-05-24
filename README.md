@@ -18,7 +18,6 @@
 <div id="Tech" align="center">
   <img alt="Dedé-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Dedé-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="Dedé-ASM" src="https://apprecs.org/ios/images/app-icons/256/0e/500466958.jpg">
 </div>
 
   ## ⚡ *GitHub Stats*
