@@ -12,7 +12,7 @@
  <h3><b>Sobre mim:</b></h3>
  
  - 🎓 Estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá - UNIFEI
- - 👨‍💻 No momento estou aprendendo sobre Drones e Tratamento de Imagem
+ - 👨‍💻 Aprendendo e codando STM32 e futuramente algumas técnicas de controle surgirão aqui
 
  ## 🚀💻 *Tecnologias e Ferramentas*
 <div id="Tech" align="center">
