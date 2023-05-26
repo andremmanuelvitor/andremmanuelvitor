@@ -1,6 +1,6 @@
 <head>
 <div id="Titulo">
- <h1 align="center"><b>Fala comigo! Sou o André Emmanuel👋</b></h1>
+ <h1 align="center"><b> Hello! I'm André Emmanuel👋</b></h1>
 </div>
 
 <div id="gif">
@@ -9,12 +9,12 @@
 </head>
 
 <body>
- <h3><b>Sobre mim:</b></h3>
+ <h3><b>About me</b></h3>
  
- - 🎓 Estudante de Engenharia de Controle e Automação na Universidade Federal de Itajubá - UNIFEI
- - 👨‍💻 Aprendendo e codando STM32 e futuramente algumas técnicas de controle surgirão aqui
+ - 🎓 Control and Automation Engineering Student at Universidade Federal de Itajubá - UNIFEI
+ - 💻 I'm learning and coding STM32 microcontroller and, in the future, some control techniques will be here.
 
- ## 🚀💻 *Tecnologias e Ferramentas*
+ ## 🚀💻 *Technologies and Features*
 <div id="Tech" align="center">
   <img alt="Dedé-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img alt="Dedé-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -28,7 +28,7 @@
   <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andremmanuelvitor&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
- ## 📞 *Estou por aqui*
+ ## 📞 *I'm here*
 <div id="Call-me" align="center">
   <a href="https://www.linkedin.com/in/andre-emmanuei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://cursos.alura.com.br/user/andre-emmanuei" target="_blank"><img src="https://media.discordapp.net/attachments/755967717147672616/887044128913915934/alura-dev-icon.jpg" target="_blank"></a>
