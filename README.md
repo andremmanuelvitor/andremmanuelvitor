@@ -31,7 +31,7 @@
  ## 📞 *I'm here*
 <div id="Call-me" align="center">
   <a href="https://www.linkedin.com/in/andre-emmanuei" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://cursos.alura.com.br/user/andre-emmanuei" target="_blank"><img src="https://media.discordapp.net/attachments/755967717147672616/887044128913915934/alura-dev-icon.jpg" target="_blank"></a>
+   <a href="https://cursos.alura.com.br/user/andre-emmanuei" target="_blank"><img src="https://i.imgur.com/q8M56bx.png" target="_blank"></a>
 
   ![Snake animation](https://github.com/andremmanuelvitor/andremmanuelvitor/blob/output/github-contribution-grid-snake.svg)
  
