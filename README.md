@@ -11,7 +11,7 @@
 <body>
  <h3><b>About me</b></h3>
  
- - 🎓 Control and Automation Engineering Student at Universidade Federal de Itajubá - UNIFEI
+ - 🎓 Control and Automation Engineer at Universidade Federal de Itajubá - UNIFEI
  - 💻 I'm learning and coding STM32 microcontroller and, in the future, some control techniques will be here.
 
  ## 🚀💻 *Technologies and Features*
